@@ -15,6 +15,8 @@ The system demonstrates practical implementation of:
 * HTTP Upgrade mechanism
 * Concurrent client handling using `fork()`
 
+## Demo Video
+https://github.com/user-attachments/assets/dd93dab3-a449-458c-ae32-826a03e596c6
 ## 🏗️ System Architecture
 
 ### Architecture Model
